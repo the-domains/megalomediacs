@@ -1,0 +1,14 @@
+layout_spectrum: 0.3245760404970497
+typography_spectrum: 0.15678485669195652
+color:
+  brandStrength: 0.905856826575473
+  lightness: 0.5776108645368367
+  saturation: 0.4890218176878989
+  rhythmicContrast: 0.07542192097753286
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
+name: MEGALOMEDIACS
